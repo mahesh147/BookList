@@ -4,4 +4,4 @@ A simple web-app made using React to test out some fundamental features of Redux
 
 ## Note
 
-I made this repo is purely made for reference purposes only. Might be proven useful when working with other projects.
+I made this repo purely made for reference purposes only. Might be proven useful when working with other projects.
